@@ -1,9 +1,9 @@
 ![plot](./Hasil/tampilanAwal.jpg)
 ![plot](./Hasil/tampilanTambah.jpg)
-![plot](./Hasil/hasil tambah data.jpg)
+![plot](./Hasil/hasilTambah.jpg)
 ![plot](./Hasil/hapus.jpg)
 ![plot](./Hasil/edit.jpg)
-![plot](./Hasil/hasil edit.jpg)
+![plot](./Hasil/hasilEdit.jpg)
 # praktikum6
 
 A new Flutter project.
